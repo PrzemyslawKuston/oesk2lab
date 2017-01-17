@@ -1,1 +1,12 @@
-Loading time 286 msecLoading time 283 msecLoading time 294 msecLoading time 283 msecLoading time 287 msecLoading time 293 msecLoading time 287 msecLoading time 288 msec
+Loading time 7010 msec
+Loading time 6482 msec
+Loading time 4170 msec
+Loading time 252 msec
+Loading time 243 msec
+Loading time 228 msec
+Loading time 219 msec
+Loading time 211 msec
+Loading time 178 msec
+Loading time 37 msec
+Loading time 32 msec
+Loading time 28 msec
